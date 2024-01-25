@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @RachanaGarad
-- 👀 # Hi there! 👋
-
 I'm Rachana, a passionate Data Analyst with a knack for weaving stories through data.
 
 ## About Me 🙋‍♀️
