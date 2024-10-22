@@ -1,7 +1,7 @@
 I'm Rachana, a passionate Data Analyst with a knack for weaving stories through data.
 
 ## About Me 🙋‍♀️
-- 🎓 Pursuing a Master's in Business Analytics, holding a Master's in International Business.
+- 🎓 Master's in Business Analytics, holding a Master's in International Business.
 - 🌱 Currently navigating the realms of advanced data analysis techniques and tools.
 - 💞️ Seeking collaborations on projects that demand the art of data storytelling.
 - 📫 Reach me through [rachanagarad26@gmail.com, https://www.linkedin.com/in/rachana-garad/] to discuss data-driven tales.
