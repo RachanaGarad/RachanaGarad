@@ -1,3 +1,6 @@
+![Innovation-Consulting](https://github.com/user-attachments/assets/a3be97a7-5d0a-4c12-83ab-b57a533cdf09)
+
+
 Hi, I’m Rachana Garad, a results-oriented professional passionate about transforming ideas into actionable strategies. With dual master’s degrees in Business Analytics and International Business from Hult International Business School, I specialize in leveraging data to solve complex challenges, streamline processes, and achieve measurable outcomes.
 
 💼 Over the years, I’ve worn multiple hats across the fields of Project Management, Business Analysis, and Data Analytics:
